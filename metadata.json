@@ -1,0 +1,6 @@
+{
+  "name": "Crea y Monetiza - Patricia Loaiza",
+  "description": "Herramienta oficial de la metodología Crea y Monetiza de Patricia Loaiza para convertir metas macro en acciones diarias ejecutables, organizar el calendario estratégico y acelerar la monetización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
